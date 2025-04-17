@@ -75,11 +75,3 @@ This project investigates the spatiotemporal variability and forecasting of rain
 - IDW-based maps reveal hydrological zones and support localized agricultural strategy.
 
 ---
-
-## 📁 Folder Structure
-Rainfall_Pattern_Analysis
-├── CHIRPS_Andaman_Data # CHIRPS .csv files for 2013–2024
-├── ROI_Shapefile # Shapefile of the A&N Region
-├── Report # Project Report (contact author if needed)
-├── Rainfall_Pattern_Analysis_code.ipynb # Google Colab Notebook with full analysis 
-└── README.md # This file
